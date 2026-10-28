@@ -2,7 +2,7 @@
   "name": "Parte diario RK11",
   "short_name": "Parte RK11",
   "description": "Carga del parte diario de obra · Ruka Kuyen Construcciones",
-  "id": "/parte-rk11/",
+  "id": "/parte-rk11/?app=rk11-v2",
   "lang": "es-AR",
   "start_url": "/parte-rk11/",
   "scope": "/parte-rk11/",

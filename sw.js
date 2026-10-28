@@ -1,5 +1,5 @@
 /* Parte diario RK11 - service worker: cachea la app, nunca toca los envios */
-const CACHE = 'rk11-v2';
+const CACHE = 'rk11-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-512-maskable.png'];
 
 self.addEventListener('install', e => {
